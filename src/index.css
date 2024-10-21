@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body {
+  font-family: "Manrope", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+.bg {
+  background-image: url(/Images//asset\ 3.png);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.footer {
+  background-image: url(/Images//asset\ 43.png);
+  background-position:center;
+  background-size:cover;
+  background-repeat: no-repeat;
+  width: 100vw;  /* Full width of the viewport */
+  height: 100vh; 
+}

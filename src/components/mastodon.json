@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "img": "/Images/asset 11.svg",
+    "title": "Decentralized",
+    "description": "Instant global communication is too important to belong to one company. Each Mastodon server is a completely independent entity, able to interoperate with others to form one global social network."
+  },
+  {
+    "id": 2,
+    "img": "/Images/asset 12.svg",
+    "title": "Open Source",
+    "description": "Mastodon is free and open-source software. We believe in your right to use, copy, study and change Mastodon as you see fit, and we benefit from contributions from the community."
+  },
+  {
+    "id": 3,
+    "img": "/Images/asset 13.svg",
+    "title": "Not for Sale",
+    "description": "We respect your agency. Your feed is curated and created by you. We will never serve ads or push profiles for you to see. That means your data and your time are yours and yours alone."
+  },
+  {
+    "id": 4,
+    "img": "/Images/asset 14.svg",
+    "title": "Interoperable",
+    "description": "Built on open web protocols, Mastodon can speak with any other platform that implements ActivityPub. With one account you get access to a whole universe of social apps—the fediverse."
+  }
+]
